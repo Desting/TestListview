@@ -12,4 +12,7 @@ public class dafuqScript : MonoBehaviour {
 	void Update () {
 	
 	}
+
+	public void Work(){
+	}
 }
