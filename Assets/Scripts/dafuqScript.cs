@@ -14,5 +14,6 @@ public class dafuqScript : MonoBehaviour {
 	}
 
 	public void Work(){
+		//This is dafuuuuuq
 	}
 }
