@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class dafuqScript : MonoBehaviour {
+public class Lala : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
@@ -11,9 +11,5 @@ public class dafuqScript : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 	
-	}
-
-	public void Work(){
-		//This is master
 	}
 }
